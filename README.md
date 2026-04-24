@@ -1,7 +1,9 @@
-# 🏥 Healthcare Data Analysis Dashboard
+# 🏥 Healthcare Data Analysis Dashboard (SQL + Power BI Project)
 
 ## 📊 Project Overview
 This project analyzes healthcare encounter data to uncover trends in revenue, diagnosis patterns, and workflow efficiency.
+
+This project identifies revenue drivers, cost leakages, and workflow inefficiencies in healthcare operations using real-world style data.
 
 The dashboard was built using **Power BI** and focuses on key performance indicators relevant to healthcare operations.
 
@@ -23,9 +25,9 @@ The dashboard was built using **Power BI** and focuses on key performance indica
 ---
 
 ## 🔍 Key Insights
-- Private insurance generates the highest revenue.
-- Medicaid has the highest revenue loss.
-- 30% of cases remain pending, indicating workflow inefficiencies.
+- Private insurance is the primary revenue driver.
+- Medicaid contributes the highest revenue loss, indicating reimbursement gaps.
+- 30% of cases remain pending, highlighting workflow inefficiencies.
 
 ---
 
@@ -47,6 +49,15 @@ This project demonstrates:
 - SQL-based analysis
 - Business insight generation
 - Dashboard design in Power BI
+
+---
+
+## 💡 Skills Demonstrated
+- Data cleaning and preparation using SQL
+- Aggregation and KPI calculation
+- Data modeling concepts
+- DAX measure creation in Power BI
+- Data storytelling and dashboard design
 
 ---
 
