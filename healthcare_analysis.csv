@@ -1,0 +1,11 @@
+encounter_id,patient_id,age,gender,visit_date,icd10_code,cpt_code,insurance_type,charge,payment,status
+E001,P001,45,F,1/10/2026,E11.9,80053,Private,120,100,Completed
+E002,P002,60,M,1/11/2026,I10,93000,Medicaid,150,90,Completed
+E003,P001,45,F,2/1/2026,E11.9,80053,Private,130,110,Completed
+E004,P003,30,F,2/3/2026,J45.9,94010,Medicare,140,120,Pending
+E005,P004,50,M,2/5/2026,E78.5,80061,Private,110,95,Completed
+E006,P005,55,F,2/10/2026,I10,93000,Medicaid,155,100,Pending
+E007,P006,40,M,2/12/2026,R10.2,81002,Private,90,80,Completed
+E008,P007,35,F,2/15/2026,N92.0,85025,Medicare,135,115,Completed
+E009,P008,28,F,2/18/2026,R14.0,80053,Private,125,105,Pending
+E010,P009,65,M,2/20/2026,I10,93000,Medicare,160,130,Completed
