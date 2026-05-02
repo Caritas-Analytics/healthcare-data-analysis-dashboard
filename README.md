@@ -53,7 +53,7 @@ This project demonstrates:
 ---
 
 ## 💡 Skills Demonstrated
-- Data cleaning and preparation using SQL
+- Data cleaning and preparation using EXCEL & SQL 
 - Aggregation and KPI calculation
 - Data modeling concepts
 - DAX measure creation in Power BI
